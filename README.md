@@ -17,7 +17,7 @@ https://nodejs.org/download/release/v12.20.0/
 
 2 Node-red 실행
 
-$ node-red  -p 1880 u
+$ node-red  -p 1880 u  .
 
 
 
