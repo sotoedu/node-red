@@ -16,6 +16,15 @@ https://nodejs.org/download/release/v12.20.0/
 
 
 2 Node-red 실행
+npm install -g node-red
+# npm i node-red-dashboard
+
+mkdir c:\workspace
+cd workspace
+mkdir nodeTest
+cd nodeTest
+npm init -y
+
 
 $ node-red  -p 1880 u  .
 
