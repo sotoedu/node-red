@@ -1,0 +1,15 @@
+[inject]
+msg.payload = timestamp
+msg.color = good
+msg.strongcolor = nice
+
+[change]
+값의 대입(set) = msg.color
+  대상의 값 = az: lime
+값의 대입(set) = msg.strongcolor
+  대상의 값 = az: red
+  
+[text|abc]
+label = <font color={{msg.strongcolor}} > 표시 </font>
+Value format = <font color={{msg.color}} > {{msg.payload}} </font>
+Layout = 4번째
