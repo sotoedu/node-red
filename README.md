@@ -32,6 +32,7 @@ https://nodejs.org/download/release/v12.20.0/
       $ npm init -y
 
       $ node-red  -p 1880 u  .
+      ( 마지막에 현재 폴더 의미인 점 ( . ) 꼭 넣기
       
       
 
