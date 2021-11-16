@@ -1,0 +1,3 @@
+let data = new Date();
+msg.payload = data;
+return msg;
