@@ -3,3 +3,15 @@
 let data = new Date();
 msg.payload = data;
 return msg;
+
+
+[function2]
+
+let dateNow = new Date();
+let timeAsString = dateNow.toLocaleTimeString();
+    
+msg.payload = msg.payload + 
+              ' The time is ' + 
+              timeAsString + '.';
+                  
+return msg;
