@@ -29,5 +29,10 @@ npm init -y
 $ node-red  -p 1880 u  .
 
 
+$ node-red    -s   settings.js   -u     .
+(file:///C:/Users/soto/.node-red/settings.js 폴더에 있는 파일을 복사해서 사용) 
+
+
+
 
 
