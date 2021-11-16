@@ -1,0 +1,22 @@
+http-in
+URL: myserver
+name: http-in myserver
+
+template HTML
+name: template HTML
+template - 구문: HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Node-RED Web</title>
+</head>
+<body>
+
+<h1>나의 웹 서버</h1>
+<p>사물인터넷을 위한 웹서버</p>
+
+</body>
+</html>
+
+http://localhost:1880/myserver
+
