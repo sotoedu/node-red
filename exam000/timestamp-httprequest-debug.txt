@@ -1,2 +1,0 @@
-Method: GET
-URL: https://thatcopy.pw/catapi/rest/
