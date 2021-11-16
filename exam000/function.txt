@@ -1,5 +1,0 @@
-let payload = msg.payload;
-
-msg.payload = payload + Math.floor(Math.random() * 10) + 1;
-
-return msg;
