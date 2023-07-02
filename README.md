@@ -30,7 +30,7 @@ https://nodejs.org/download/release/v14.18.2/node-v14.18.2-x64.msi
 
       $ npm init -y
 
-      $ node-red  -p 1880 u  .
+      $ node-red  -p 1880 -u  .
       ( 마지막에 현재 폴더 의미인 점 ( . ) 꼭 넣기
       
       
