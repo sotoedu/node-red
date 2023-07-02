@@ -12,7 +12,7 @@ https://www.arduino.cc/download_handler.php
 
 https://nodejs.org/en/download/
 
-https://nodejs.org/download/release/v14.18.2/node-v14.18.2-x64.msi
+https://nodejs.org/download/release/v16.18.2/node-v16.18.2-x64.msi
 
 2 Node-red 실행
 
